@@ -20,7 +20,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    title: How did you landup here?
+    title: How did you land here?
   - type: grid_section
     title: 'Read by marketers at:'
     align: center
