@@ -3,7 +3,7 @@
     "style": "minimal",
     "palette": "gray",
     "mode": "dark",
-    "base_font": "serif",
+    "base_font": "sans-serif",
     "header": {
         "title": "Stumbll LLC",
         "logo": "images/adorable-strawberry.png",
