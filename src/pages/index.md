@@ -20,7 +20,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    title: 'Hey!! Happy to have STUMBLLed '
   - type: grid_section
     title: 'Read by marketers at:'
     align: center
