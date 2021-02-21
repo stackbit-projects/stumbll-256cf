@@ -36,13 +36,7 @@
         "primary_nav_links": [],
         "has_secondary_nav": true,
         "secondary_nav_title": "Legal",
-        "secondary_nav_links": [
-            {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
-                "style": "link"
-            }
-        ],
+        "secondary_nav_links": [],
         "has_tertiary_nav": false,
         "has_social": true,
         "social_links": [
