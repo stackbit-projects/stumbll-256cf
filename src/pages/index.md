@@ -23,32 +23,6 @@ sections:
     title: How did you land here?
   - type: features_section
     features:
-      - title: What’s Inside
-        subtitle: How this book will teach you real world marketing
-        content: |-
-          - All you need to know about PPC
-          - How to create a brand that sells
-          - Putting together a multi-channel marketing plan
-          - Tracking, attribution and analytics
-          - Analyzing your competitors
-          - Marketing ads no one can ignore
-          - The social media of today
-        actions:
-          - label: Start learning
-            url: /thank-you
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/book-inside.png
-        image_alt: Look inside Marketing Playbook
-        media_position: right
-        media_width: fifty
-    feature_padding_vert: small
-    align: center
-    background_color: none
-  - type: features_section
-    features:
       - title: |-
           “This book is inspiring and practical. It’s thought-provoking and full
           of examples which definitely motivates me”
