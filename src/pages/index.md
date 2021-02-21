@@ -21,21 +21,6 @@ sections:
     padding_bottom: large
     background_color: none
     title: How did you land here?
-  - type: cta_section
-    title: Download the e-book today
-    actions:
-      - label: Get the e-book
-        url: /pricing
-        style: primary
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    background_image: images/background-2.jpg
-    background_image_repeat: no-repeat
-    background_image_size: cover
-    background_image_opacity: 10
 seo:
   title: Stackbit Book Theme
   description: The preview of the Book theme
