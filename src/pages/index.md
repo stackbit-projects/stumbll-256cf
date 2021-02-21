@@ -4,7 +4,9 @@ sections:
   - type: hero_section
     subtitle: Hey You!
     content: |
-      Thankyou for checking on. We will be LIVE soon :)
+      Thankyou for checking in!!! 
+
+      The wait is almost over!! We will be live soon. 
     actions:
       - label: Get the book
         url: /pricing
