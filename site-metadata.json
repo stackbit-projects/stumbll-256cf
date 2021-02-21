@@ -28,55 +28,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "footer": {
-        "logo": "images/adorable-strawberry.png",
-        "logo_alt": "Stumbll LLC",
-        "has_primary_nav": true,
-        "primary_nav_links": [],
-        "has_secondary_nav": true,
-        "secondary_nav_links": [],
-        "has_tertiary_nav": false,
-        "has_social": true,
-        "social_links": [
-            {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "twitter",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "Facebook",
-                "url": "https://www.facebook.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "facebook",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "YouTube",
-                "url": "https://www.youtube.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "youtube",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "Vimeo",
-                "url": "https://vimeo.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "vimeo",
-                "icon_position": "center",
-                "new_window": true
-            }
-        ],
-        "content": "Stumbll. All rights reserved."
-    },
     "title": "Stackbit Book Theme",
     "domain": "https://stumbll-256cf.netlify.app"
 }
