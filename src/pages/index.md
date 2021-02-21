@@ -21,42 +21,6 @@ sections:
     padding_bottom: large
     background_color: none
     title: How did you land here?
-  - type: grid_section
-    title: Who Should Read This Book?
-    grid_items:
-      - content: |-
-          #### Marketers
-           - Learn how all of the marketing pieces fit together
-           - Master digital marketing for any business
-           - Get access to marketing gurus and their tips
-           - Prepare killer presentations and collateral
-      - content: |-
-          #### Designers
-           - Gain big picture insights that affect design
-           - Learn how your design can inspire action
-           - Make advertisements that convert
-           - Create digital assets for the right audience
-      - content: |-
-          #### Business owners
-           - Kickstart your marketing plan and efforts
-           - Upgrade your brand, website and social media
-           - Prepare effective collateral for your business
-           - Start advertising your company online
-      - content: |-
-          #### Product managers
-           - Understand the context of your product work
-           - Learn how to segment your audience properly
-           - Implement brand voice and style in your work
-           - Connect top of funnel activities with your flow
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: large
-    align: center
-    background_color: primary
-    background_image: images/background.jpg
-    background_image_repeat: no-repeat
-    background_image_size: cover
-    background_image_opacity: 10
   - type: features_section
     features:
       - title: What’s Inside
