@@ -2,7 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    title: Are we there yet!!
     subtitle: Hey You!
     content: |
       Thankyou for checking on. We will be LIVE soon :)
