@@ -5,7 +5,7 @@ sections:
     title: We cannot contain the excitement!!!
     subtitle: Hey You!
     content: |
-      We will be LIVE soon :)
+      Thankyou for checking on. We will be LIVE soon :)
     actions:
       - label: Get the book
         url: /pricing
