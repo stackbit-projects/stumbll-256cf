@@ -8,7 +8,7 @@ sections:
 
       The wait is almost over!! We will be live soon. 
     actions:
-      - label: Get the book
+      - label: Tell me when!
         url: /pricing
         style: primary
         has_icon: true
