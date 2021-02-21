@@ -4,9 +4,7 @@ sections:
   - type: hero_section
     subtitle: Hey You!
     content: |
-      Thankyou for checking in!!! 
-
-      The wait is almost over!! We will be live soon. 
+      Thankyou for checking in!!! We will be live soon.
     actions:
       - label: Tell me when!
         url: /pricing
