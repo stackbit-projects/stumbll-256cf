@@ -2,7 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: Hey You!
     content: |
       Thankyou for checking in!!! We will be live soon.
     actions:
