@@ -4,10 +4,8 @@ sections:
   - type: hero_section
     title: We cannot contain the excitement!!!
     subtitle: Hey You!
-    content: |-
-      This book is your go-to guide for all marketing channels. Learn how to
-      create effective landing pages, compelling ads, creative copywriting and
-      converting marketing materials for any business.
+    content: |
+      We will be LIVE soon :)
     actions:
       - label: Get the book
         url: /pricing
