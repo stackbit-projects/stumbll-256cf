@@ -33,13 +33,7 @@
         "logo": "images/adorable-strawberry.png",
         "logo_alt": "Marketing Playbook logo",
         "has_primary_nav": true,
-        "primary_nav_links": [
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            }
-        ],
+        "primary_nav_links": [],
         "has_secondary_nav": true,
         "secondary_nav_title": "Legal",
         "secondary_nav_links": [
