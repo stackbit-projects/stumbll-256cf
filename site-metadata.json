@@ -8,7 +8,7 @@
         "title": "Marketing Playbook",
         "logo": "images/adorable-strawberry.png",
         "logo_alt": "Stumbll LLC",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "primary_nav_links": [
             {
                 "style": "link"
