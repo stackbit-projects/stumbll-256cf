@@ -29,5 +29,6 @@
         "anncmnt_id": "new-features"
     },
     "title": "Stackbit Book Theme",
-    "domain": "https://stumbll-256cf.netlify.app"
+    "domain": "https://stumbll-256cf.netlify.app",
+    "favicon": "images/adorable-strawberry.png"
 }
